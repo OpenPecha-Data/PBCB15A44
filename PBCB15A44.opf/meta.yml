@@ -1,0 +1,20 @@
+id: PBCB15A44
+initial_creation_type: input
+source_metadata:
+  title: Khenpo Chime Rigdzin Series
+  language: bo
+  description: 'Texts by Chimé Rigdzin (''chi med rig ''dzin), a learned khenpo from
+    Larung Gar:'
+  volume:
+    e704fea49da341c8b4c979310073ca26:
+      title: Many Are the Scholars Who Travel Empty-Handed to the Realm of the Dead
+      parent: Poems
+    2fd0cd170c244f579fb707072850d505:
+      title: 'A Lament of Faith: A Short Remembrance of, and Prayer to, My Guru, the
+        Wish-Fulfilling Jewel'
+      parent: Prayers
+    01624dc849354e789c511f9f6c42d994:
+      title: A Prayer to Kyabje Dilgo Khyentse Rinpoche
+      parent: Prayers
+created_at: '2022-03-01T00:24:02.328006'
+last_modified_at: '2022-03-01T00:24:02.328008'
